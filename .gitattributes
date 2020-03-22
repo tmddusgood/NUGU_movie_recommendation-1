@@ -1,0 +1,9 @@
+nugu/movie_comment_scrapper/integrated_nouns_vs_list filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+.json filter=lfs diff=lfs merge=lfs -text
+nugu/movie_comment_scrapper/*.json filter=lfs diff=lfs merge=lfs -text
+nugu/movie_story_scrapper/dict_20191206_1937.bin filter=lfs diff=lfs merge=lfs -text
+nugu/movie_story_scrapper/*.json filter=lfs diff=lfs merge=lfs -text
+nugu/movie_story_scrapper/dict_mid_mname.bin filter=lfs diff=lfs merge=lfs -text
+nugu/movie_story_scrapper/comm3.json filter=lfs diff=lfs merge=lfs -text
+nugu/movie_comment_scrapper/temp.json filter=lfs diff=lfs merge=lfs -text
