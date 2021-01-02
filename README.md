@@ -1,5 +1,5 @@
 # NUGU_movie_recommendation  
- movie recommendation proxy server in NUGU Play
+ SKT 석학통합 프로젝트 movie recommendation proxy server in NUGU Play
   
 ## 프로젝트 소개  
 - SK Telecom 산학협력 인공지능 석학사 통합 교과목 진행 프로젝트
